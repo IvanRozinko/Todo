@@ -1,0 +1,11 @@
+.heading-container {
+  border-radius: 5px;
+  background-color: rgba(0, 209, 178, 0.1);
+  padding-top: 30px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 0.5em 1em -0.125em rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.02);
+}
+.heading-title {
+  padding: 20px 0;
+}
